@@ -1,0 +1,434 @@
+{
+  "Version": 1,
+  "Hash": "NHLU/n+jCBP6VxdhzNaAoHfGoKNkdAJfko8OT9mzorw=",
+  "Source": "CDNFreelancers",
+  "BasePath": "_content/CDNFreelancers",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CDNFreelancers\\wwwroot",
+      "Source": "CDNFreelancers",
+      "ContentRoot": "C:\\CDNFreelancers\\wwwroot\\",
+      "BasePath": "_content/CDNFreelancers",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\CDNFreelancers\\wwwroot\\create.html",
+      "SourceId": "CDNFreelancers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\CDNFreelancers\\wwwroot\\",
+      "BasePath": "_content/CDNFreelancers",
+      "RelativePath": "create#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pse5muaric",
+      "Integrity": "KUjg12FcsesVzEooss9Vucl6MupHS+qPwjbu0T+3w84=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\create.html"
+    },
+    {
+      "Identity": "C:\\CDNFreelancers\\wwwroot\\dashboard.html",
+      "SourceId": "CDNFreelancers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\CDNFreelancers\\wwwroot\\",
+      "BasePath": "_content/CDNFreelancers",
+      "RelativePath": "dashboard#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tzaoqn2ouv",
+      "Integrity": "V3wRNQdI8mvoeRvDSiqSFEkqEpNrvfXddZb8HXaqqYg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dashboard.html"
+    },
+    {
+      "Identity": "C:\\CDNFreelancers\\wwwroot\\index.html",
+      "SourceId": "CDNFreelancers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\CDNFreelancers\\wwwroot\\",
+      "BasePath": "_content/CDNFreelancers",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fa9iv812ns",
+      "Integrity": "edGAtSvFVpqLKFKZKKndoCcI6Y71mIlLr+8224Dfnl0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\CDNFreelancers\\wwwroot\\view.html",
+      "SourceId": "CDNFreelancers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\CDNFreelancers\\wwwroot\\",
+      "BasePath": "_content/CDNFreelancers",
+      "RelativePath": "view#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ou58wxdny0",
+      "Integrity": "YFyJZg7nit/50CBaWpazpe9icj8PTrZIIwPQ5cFLcjo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\view.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "create.html",
+      "AssetFile": "C:\\CDNFreelancers\\wwwroot\\create.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5702"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KUjg12FcsesVzEooss9Vucl6MupHS+qPwjbu0T+3w84=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 10:08:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KUjg12FcsesVzEooss9Vucl6MupHS+qPwjbu0T+3w84="
+        }
+      ]
+    },
+    {
+      "Route": "create.pse5muaric.html",
+      "AssetFile": "C:\\CDNFreelancers\\wwwroot\\create.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5702"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KUjg12FcsesVzEooss9Vucl6MupHS+qPwjbu0T+3w84=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 10:08:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pse5muaric"
+        },
+        {
+          "Name": "label",
+          "Value": "create.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KUjg12FcsesVzEooss9Vucl6MupHS+qPwjbu0T+3w84="
+        }
+      ]
+    },
+    {
+      "Route": "dashboard.html",
+      "AssetFile": "C:\\CDNFreelancers\\wwwroot\\dashboard.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12201"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V3wRNQdI8mvoeRvDSiqSFEkqEpNrvfXddZb8HXaqqYg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:17:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V3wRNQdI8mvoeRvDSiqSFEkqEpNrvfXddZb8HXaqqYg="
+        }
+      ]
+    },
+    {
+      "Route": "dashboard.tzaoqn2ouv.html",
+      "AssetFile": "C:\\CDNFreelancers\\wwwroot\\dashboard.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12201"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V3wRNQdI8mvoeRvDSiqSFEkqEpNrvfXddZb8HXaqqYg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:17:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tzaoqn2ouv"
+        },
+        {
+          "Name": "label",
+          "Value": "dashboard.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-V3wRNQdI8mvoeRvDSiqSFEkqEpNrvfXddZb8HXaqqYg="
+        }
+      ]
+    },
+    {
+      "Route": "index.fa9iv812ns.html",
+      "AssetFile": "C:\\CDNFreelancers\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "350"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"edGAtSvFVpqLKFKZKKndoCcI6Y71mIlLr+8224Dfnl0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 10:08:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fa9iv812ns"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-edGAtSvFVpqLKFKZKKndoCcI6Y71mIlLr+8224Dfnl0="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\CDNFreelancers\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "350"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"edGAtSvFVpqLKFKZKKndoCcI6Y71mIlLr+8224Dfnl0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 10:08:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-edGAtSvFVpqLKFKZKKndoCcI6Y71mIlLr+8224Dfnl0="
+        }
+      ]
+    },
+    {
+      "Route": "view.html",
+      "AssetFile": "C:\\CDNFreelancers\\wwwroot\\view.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19417"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YFyJZg7nit/50CBaWpazpe9icj8PTrZIIwPQ5cFLcjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:16:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YFyJZg7nit/50CBaWpazpe9icj8PTrZIIwPQ5cFLcjo="
+        }
+      ]
+    },
+    {
+      "Route": "view.ou58wxdny0.html",
+      "AssetFile": "C:\\CDNFreelancers\\wwwroot\\view.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19417"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YFyJZg7nit/50CBaWpazpe9icj8PTrZIIwPQ5cFLcjo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 12:16:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ou58wxdny0"
+        },
+        {
+          "Name": "label",
+          "Value": "view.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YFyJZg7nit/50CBaWpazpe9icj8PTrZIIwPQ5cFLcjo="
+        }
+      ]
+    }
+  ]
+}

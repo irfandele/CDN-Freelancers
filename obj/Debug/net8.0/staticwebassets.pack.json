@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\CDNFreelancers\\wwwroot\\create.html",
+      "PackagePath": "staticwebassets\\create.html"
+    },
+    {
+      "Id": "C:\\CDNFreelancers\\wwwroot\\dashboard.html",
+      "PackagePath": "staticwebassets\\dashboard.html"
+    },
+    {
+      "Id": "C:\\CDNFreelancers\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\CDNFreelancers\\wwwroot\\view.html",
+      "PackagePath": "staticwebassets\\view.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CDNFreelancers.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CDNFreelancers.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CDNFreelancers.props",
+      "PackagePath": "build\\CDNFreelancers.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CDNFreelancers.props",
+      "PackagePath": "buildMultiTargeting\\CDNFreelancers.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CDNFreelancers.props",
+      "PackagePath": "buildTransitive\\CDNFreelancers.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
