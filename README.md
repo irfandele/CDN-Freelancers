@@ -152,6 +152,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - SQL Server LocalDB
 
 ## Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-Project Link: [https://github.com/yourusername/CDNFreelancers](https://github.com/yourusername/CDNFreelancers) 
+irfanhaneef10@gmail.com
+Project Link: [https://github.com/irfandele/CDNFreelancers]
